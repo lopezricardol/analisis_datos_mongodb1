@@ -1,0 +1,2762 @@
+[
+  {
+    "alumno_id": "A001",
+    "nombre": "Alejo Acosta Laguna",
+    "edad": 25,
+    "email": "esmeraldaberrocal@pombo.es",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A002",
+    "nombre": "Ángel Cornejo Muñoz",
+    "edad": 19,
+    "email": "marcoledesma@yahoo.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A003",
+    "nombre": "Eric Chacón Bautista",
+    "edad": 21,
+    "email": "rpacheco@vazquez.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A004",
+    "nombre": "Edmundo de Ledesma",
+    "edad": 25,
+    "email": "belenrico@yahoo.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A005",
+    "nombre": "Marc Guerra Carlos",
+    "edad": 21,
+    "email": "nadiavalls@berenguer-benavides.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A006",
+    "nombre": "Odalis de Calderon",
+    "edad": 22,
+    "email": "cerverajaviera@hotmail.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A007",
+    "nombre": "Almudena Soto-Gibert",
+    "edad": 20,
+    "email": "lorenzo11@vega-mateos.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A008",
+    "nombre": "Tristán Montoya Jiménez",
+    "edad": 21,
+    "email": "gfuster@hotmail.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A009",
+    "nombre": "Jessica Puerta Requena",
+    "edad": 19,
+    "email": "diego67@yahoo.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A010",
+    "nombre": "José Manuel Cobos-Varela",
+    "edad": 24,
+    "email": "maximiliano48@gmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A011",
+    "nombre": "Lupe Larrañaga Zamora",
+    "edad": 23,
+    "email": "jotero@gmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A012",
+    "nombre": "Édgar Giménez Martorell",
+    "edad": 22,
+    "email": "lloretgeronimo@amores.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A013",
+    "nombre": "Pascual Ortuño Seco",
+    "edad": 24,
+    "email": "menendezguadalupe@palomar.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A014",
+    "nombre": "Purificación Granados Belmonte",
+    "edad": 19,
+    "email": "barbaraespinosa@baez-carvajal.es",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A015",
+    "nombre": "María Jesús Castrillo Crespi",
+    "edad": 20,
+    "email": "bernabe78@oliva.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A016",
+    "nombre": "Tere Cerezo-Linares",
+    "edad": 20,
+    "email": "ligia55@lerma-gisbert.es",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A017",
+    "nombre": "Rosalva Custodia Pedrosa Torres",
+    "edad": 17,
+    "email": "arseniopaniagua@hotmail.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A018",
+    "nombre": "Mariano Garcia Cañellas",
+    "edad": 21,
+    "email": "lazaro75@vazquez-castell.org",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A019",
+    "nombre": "Jorge Toño Haro Ochoa",
+    "edad": 24,
+    "email": "fcaceres@alcala.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A020",
+    "nombre": "Bibiana de Espada",
+    "edad": 21,
+    "email": "nadia32@barrera.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A021",
+    "nombre": "Natanael del Carrasco",
+    "edad": 21,
+    "email": "campsanibal@infante.es",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A022",
+    "nombre": "Yago Olmedo Ballesteros",
+    "edad": 18,
+    "email": "kcastello@molins.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A023",
+    "nombre": "Nilo Mur Páez",
+    "edad": 21,
+    "email": "abraham11@bernat.net",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A024",
+    "nombre": "Álvaro Asensio Ruiz",
+    "edad": 21,
+    "email": "rosalinarubio@alonso-jaen.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A025",
+    "nombre": "Fanny Barco",
+    "edad": 23,
+    "email": "soledadrivero@yahoo.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A026",
+    "nombre": "Julio César Rojas Folch",
+    "edad": 24,
+    "email": "anacleto14@gmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A027",
+    "nombre": "Miguel Ángel Morales Nogués",
+    "edad": 19,
+    "email": "qpi@yahoo.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A028",
+    "nombre": "Casandra Calatayud Aranda",
+    "edad": 18,
+    "email": "geraldofiguerola@barrera.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A029",
+    "nombre": "Evaristo Bárcena",
+    "edad": 22,
+    "email": "doroteacoello@yahoo.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A030",
+    "nombre": "Renata Elvira Sandoval Arcos",
+    "edad": 21,
+    "email": "carlaechevarria@garay-rivera.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A031",
+    "nombre": "Carolina Reig Gabaldón",
+    "edad": 21,
+    "email": "cristobal17@llorens-abellan.es",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A032",
+    "nombre": "Rafa Maldonado Romero",
+    "edad": 18,
+    "email": "leon51@gmail.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A033",
+    "nombre": "Manuela Roig Salazar",
+    "edad": 18,
+    "email": "narteaga@reig.es",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A034",
+    "nombre": "Hernando Carrillo Arnal",
+    "edad": 22,
+    "email": "rcaro@yahoo.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A035",
+    "nombre": "Francisca Chacón Gomez",
+    "edad": 24,
+    "email": "ibangomis@molins.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A036",
+    "nombre": "Paulino Falcón Puig",
+    "edad": 19,
+    "email": "linocastellanos@yahoo.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A037",
+    "nombre": "Celestina Pons Baeza",
+    "edad": 24,
+    "email": "carolinacomas@dominguez-castell.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A038",
+    "nombre": "Guillermo Canales Soler",
+    "edad": 25,
+    "email": "isola@hotmail.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A039",
+    "nombre": "Encarnación Abad Esteban",
+    "edad": 19,
+    "email": "rbarcelo@gomis-peral.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A040",
+    "nombre": "Brígida Blázquez Castells",
+    "edad": 24,
+    "email": "carballodomitila@gmail.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A041",
+    "nombre": "Cruz Loida Poza Duran",
+    "edad": 24,
+    "email": "charo78@gmail.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A042",
+    "nombre": "Maximino David Cabeza Lobato",
+    "edad": 17,
+    "email": "carlos32@hotmail.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A043",
+    "nombre": "Fátima Valdés Pizarro",
+    "edad": 22,
+    "email": "cirino80@polo-alemany.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A044",
+    "nombre": "Alondra Zamora",
+    "edad": 23,
+    "email": "esthercasal@sarmiento.es",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A045",
+    "nombre": "Antonio Zabala Taboada",
+    "edad": 20,
+    "email": "bonifacioponce@zaragoza.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A046",
+    "nombre": "Irene Gordillo",
+    "edad": 25,
+    "email": "leocadiapalma@mosquera-lorenzo.es",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A047",
+    "nombre": "Víctor de Tenorio",
+    "edad": 17,
+    "email": "lola25@hotmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A048",
+    "nombre": "Pía Arenas Domingo",
+    "edad": 22,
+    "email": "cayetano16@pages.es",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A049",
+    "nombre": "Primitiva Montesinos Prat",
+    "edad": 20,
+    "email": "montserratsilvestre@barranco.org",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A050",
+    "nombre": "Norberto Reig Cuevas",
+    "edad": 17,
+    "email": "fannyblanch@maldonado-duarte.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A051",
+    "nombre": "Rodolfo Diéguez Pol",
+    "edad": 19,
+    "email": "anunciacion16@folch.net",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A052",
+    "nombre": "Margarita Pacífica Escudero Moles",
+    "edad": 20,
+    "email": "maite50@yahoo.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A053",
+    "nombre": "Dulce Sabater Marqués",
+    "edad": 19,
+    "email": "elopez@yahoo.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A054",
+    "nombre": "Sara Miralles Amigó",
+    "edad": 20,
+    "email": "wilfredofiguerola@pinol.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A055",
+    "nombre": "Quirino Grau Diaz",
+    "edad": 23,
+    "email": "ncampos@verdejo.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A056",
+    "nombre": "Ofelia Company Baquero",
+    "edad": 20,
+    "email": "lucas47@hotmail.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A057",
+    "nombre": "Baldomero Romero-Luís",
+    "edad": 23,
+    "email": "dalmauencarnita@cervera.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A058",
+    "nombre": "Patricia Moll-Cuervo",
+    "edad": 22,
+    "email": "xarcos@arnaiz.es",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A059",
+    "nombre": "Daniela Mosquera Barriga",
+    "edad": 22,
+    "email": "maristela07@coll.org",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A060",
+    "nombre": "Baltasar José Ángel Galán Alcántara",
+    "edad": 25,
+    "email": "hugo25@gmail.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A061",
+    "nombre": "Flavio Maxi Torrens Santos",
+    "edad": 17,
+    "email": "romanmarcelino@barral.es",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A062",
+    "nombre": "Leandra de Lledó",
+    "edad": 22,
+    "email": "turcalisto@hotmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A063",
+    "nombre": "Ildefonso Enrique Casanova Vazquez",
+    "edad": 24,
+    "email": "reguloginer@hotmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A064",
+    "nombre": "Fanny Cordero Arrieta",
+    "edad": 22,
+    "email": "nsaez@conde.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A065",
+    "nombre": "Luís Valderrama Jaén",
+    "edad": 19,
+    "email": "salvadorsaavedra@yahoo.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A066",
+    "nombre": "Olalla Castilla Pallarès",
+    "edad": 18,
+    "email": "consuelafont@minguez.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A067",
+    "nombre": "Pascual Mateo Gual",
+    "edad": 18,
+    "email": "maxi26@uriarte-briones.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A068",
+    "nombre": "Miguel Oliver-Busquets",
+    "edad": 24,
+    "email": "edu35@gmail.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A069",
+    "nombre": "Dionisio Parejo Beltrán",
+    "edad": 19,
+    "email": "avilahector@alcazar.es",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A070",
+    "nombre": "Ramona Escribano Figueroa",
+    "edad": 17,
+    "email": "maxi36@gmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A071",
+    "nombre": "Gracia Lobato Baró",
+    "edad": 22,
+    "email": "nazaret06@tolosa.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A072",
+    "nombre": "Marta del Saura",
+    "edad": 25,
+    "email": "chema79@hotmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A073",
+    "nombre": "Esther de Valero",
+    "edad": 24,
+    "email": "frutossergio@yahoo.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A074",
+    "nombre": "Zoraida Gelabert Cobos",
+    "edad": 21,
+    "email": "yolandavilalta@mari-garzon.net",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A075",
+    "nombre": "Angélica Frutos Criado",
+    "edad": 19,
+    "email": "tcarnero@moran.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A076",
+    "nombre": "Ceferino Onofre Roldán Matas",
+    "edad": 20,
+    "email": "edgardo53@yahoo.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A077",
+    "nombre": "Ciro Castejón Rueda",
+    "edad": 22,
+    "email": "leonorfuertes@gmail.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A078",
+    "nombre": "Crescencia Ramis Zurita",
+    "edad": 25,
+    "email": "eusebio93@gmail.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A079",
+    "nombre": "Ariadna Angelina Izquierdo Perea",
+    "edad": 25,
+    "email": "parejacasandra@macias-saez.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A080",
+    "nombre": "Zoraida Rivero-Quintanilla",
+    "edad": 20,
+    "email": "abraham42@ruiz-sanjuan.es",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A081",
+    "nombre": "Obdulia Domínguez Valencia",
+    "edad": 25,
+    "email": "desideriopineiro@baro-pardo.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A082",
+    "nombre": "Telmo Calvet-Ferrera",
+    "edad": 21,
+    "email": "jose-luis07@taboada-naranjo.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A083",
+    "nombre": "Rico Perea Rodrigo",
+    "edad": 25,
+    "email": "gomisadriana@villa.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A084",
+    "nombre": "Susanita de Tolosa",
+    "edad": 25,
+    "email": "febeescalona@yahoo.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A085",
+    "nombre": "Toribio Zacarías Chacón Serrano",
+    "edad": 18,
+    "email": "africacanton@collado.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A086",
+    "nombre": "Roque Frutos Gutierrez",
+    "edad": 23,
+    "email": "earoca@hotmail.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      }
+    ]
+  },
+  {
+    "alumno_id": "A087",
+    "nombre": "Piedad Galindo Juan",
+    "edad": 22,
+    "email": "acerosimon@yahoo.com",
+    "carrera": "Profesorado en Matemática",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A088",
+    "nombre": "Natanael Dionisio García Saavedra",
+    "edad": 18,
+    "email": "amalia12@palomino-boix.org",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A089",
+    "nombre": "Priscila de Ropero",
+    "edad": 25,
+    "email": "roperonoe@gmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A090",
+    "nombre": "Salud Pinilla Baró",
+    "edad": 19,
+    "email": "lope35@hotmail.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      }
+    ]
+  },
+  {
+    "alumno_id": "A091",
+    "nombre": "María Dolores Pont Juárez",
+    "edad": 20,
+    "email": "africa81@somoza-arnau.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A092",
+    "nombre": "Custodio Diez-Albero",
+    "edad": 19,
+    "email": "ocarranza@arroyo.es",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A093",
+    "nombre": "Francisco Jose Rodríguez Palmer",
+    "edad": 22,
+    "email": "tbernal@manrique-pastor.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A094",
+    "nombre": "Saturnino Ropero",
+    "edad": 22,
+    "email": "dani55@yahoo.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 7
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A095",
+    "nombre": "Herminia Montserrat Torrens Canals",
+    "edad": 17,
+    "email": "kolivares@gmail.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 8
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 7
+      }
+    ]
+  },
+  {
+    "alumno_id": "A096",
+    "nombre": "Pacífica Aramburu Miralles",
+    "edad": 17,
+    "email": "gnadal@gmail.com",
+    "carrera": "Ingeniería en Sistemas",
+    "inscripciones": [
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 5
+      }
+    ]
+  },
+  {
+    "alumno_id": "A097",
+    "nombre": "Julia Olivera Sala",
+    "edad": 23,
+    "email": "jose-ignaciopinto@gmail.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 4
+      },
+      {
+        "materia": "Didáctica General",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 9
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      }
+    ]
+  },
+  {
+    "alumno_id": "A098",
+    "nombre": "Evaristo Lasa Gallo",
+    "edad": 20,
+    "email": "varagon@pedro.es",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 4
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 10
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 8
+      }
+    ]
+  },
+  {
+    "alumno_id": "A099",
+    "nombre": "Pastora Leon Garcés",
+    "edad": 21,
+    "email": "manuela79@yahoo.com",
+    "carrera": "Tecnicatura en Programación",
+    "inscripciones": [
+      {
+        "materia": "Programación I",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 9
+      },
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  },
+  {
+    "alumno_id": "A100",
+    "nombre": "Caridad Saldaña Oliver",
+    "edad": 22,
+    "email": "gervasio00@gmail.com",
+    "carrera": "Licenciatura en Educación",
+    "inscripciones": [
+      {
+        "materia": "Matemática I",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 10
+      },
+      {
+        "materia": "Sistemas Operativos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 5
+      },
+      {
+        "materia": "Algoritmos",
+        "anio": 2024,
+        "cuatrimestre": 1,
+        "nota_final": 6
+      },
+      {
+        "materia": "Pedagogía",
+        "anio": 2024,
+        "cuatrimestre": 2,
+        "nota_final": 6
+      }
+    ]
+  }
+]
